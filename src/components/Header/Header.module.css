@@ -1,0 +1,15 @@
+.navContainer {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.navContainer div {
+    margin: 3px 20px;
+    font-size: 20px;
+    color: black;
+    list-style: none;
+}
+
+.navitem {
+    text-decoration: none;
+}
